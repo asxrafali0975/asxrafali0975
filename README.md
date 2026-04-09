@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Tech Stack
-- **Backend:** Python, JavaScript
+- **Languages:** Python, JavaScript
 - **Backend:** FastAPI  
 - **Database:** MongoDB  
 - **Async/Tasks:** Celery, Redis  
