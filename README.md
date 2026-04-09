@@ -1,16 +1,59 @@
-## Hi there 👋
+## 👋 Hi, I'm Ashraf Ali
 
-<!--
-**asxrafali0975/asxrafali0975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student (CGPA: 8.79)  
+💻 Python Backend Developer (FastAPI)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Backend:** FastAPI  
+- **Database:** MongoDB  
+- **Async/Tasks:** Celery, Redis  
+- **Frontend:** React.js, Tailwind CSS  
+- **Tools:** Git, GitHub, Socket.IO, Pydantic  
+
+---
+
+## 🔥 Projects
+
+### 🧩 IssueHub — Complaint Management System
+> Backend-focused full-stack application
+
+- Built with FastAPI, React, MongoDB, Redis, Celery  
+- Implemented JWT authentication & role-based access (Student / Team / Admin)  
+- Used Redis + Celery for async email processing (reduced API latency from ~2–4s to ~200ms)  
+- Designed paginated REST APIs for scalable data handling  
+- File upload support & complaint tracking system  
+
+---
+
+### 🛠 AutoWord — Data Entry Automation Tool
+> Real-world productivity tool
+
+- Reduced manual work from **30 minutes → ~1 minute (97% improvement)**  
+- Converts unstructured data into formatted Word tables  
+- Saves ~3 hours/week for end user  
+
+---
+
+### 🎯 Hack8thon Registration System
+> Live deployed application
+
+- Built registration portal used by **200+ students**  
+- Stack: React, FastAPI, MongoDB  
+- Implemented form validation, error handling & deployment  
+
+🔗 Live: https://hack8-frontend.vercel.app/
+
+---
+
+## 📈 Focus Areas
+- Backend Engineering (FastAPI)  
+- API Design & Performance Optimization  
+- System Design Fundamentals  
+
+---
+
+## 📫 Contact
+- 📧 ashrafalistudy@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ashrafali0975/
