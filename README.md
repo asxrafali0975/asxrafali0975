@@ -24,7 +24,9 @@
 - Implemented JWT authentication & role-based access (Student / Team / Admin)  
 - Used Redis + Celery for async email processing (reduced API latency from ~2–4s to ~200ms)  
 - Designed paginated REST APIs for scalable data handling  
-- File upload support & complaint tracking system  
+- File upload support & complaint tracking system
+
+🔗 link - https://github.com/asxrafali0975/IssueHub/tree/main
 
 ---
 
@@ -33,7 +35,9 @@
 
 - Reduced manual work from **30 minutes → ~1 minute (97% improvement)**  
 - Converts unstructured data into formatted Word tables  
-- Saves ~3 hours/week for end user  
+- Saves ~3 hours/week for end user
+
+🔗 link - https://github.com/asxrafali0975/AutoWord/tree/main
 
 ---
 
