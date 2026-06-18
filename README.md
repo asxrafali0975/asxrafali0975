@@ -1,64 +1,114 @@
-## 👋 Hi, I'm Ashraf Ali
+# 👋 Hi, I'm Ashraf Ali
 
-🎓 BCA Final Year Student (CGPA: 8.79)  
-💻 Python Backend Developer (FastAPI)
+🎓 BCA Final Year Student (CGPA: 8.82)
+💻 Python Backend Developer | AI Application Developer
 
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python, JavaScript
-- **Backend:** FastAPI  
-- **Database:** MongoDB  
-- **Async/Tasks:** Celery, Redis  
-- **Frontend:** React.js, Tailwind CSS  
-- **Tools:** Git, GitHub, Socket.IO, Pydantic  
+
+### Languages
+- Python
+- JavaScript
+- SQL
+
+### Backend
+- FastAPI
+- REST APIs
+- Pydantic
+
+### AI / LLM
+- RAG (Retrieval-Augmented Generation)
+- LangChain
+- Gemini API
+- FAISS
+- Sentence Transformers
+- Vector Embeddings
+- Semantic Search
+
+### Database
+- MongoDB, MySQL
+
+### Async / Tasks
+- Redis
+- Celery
+
+### Frontend
+- React.js
+- Tailwind CSS
+
+### Tools
+- Git
+- GitHub
+- Socket.IO
 
 ---
 
 ## 🔥 Projects
 
+### 🤖 PDF CHAT AI
+> AI-powered RAG application
+
+- Upload and query multiple PDF documents using natural language
+- Implemented document chunking, embeddings generation, and semantic search
+- Built retrieval pipeline using FAISS vector database
+- Integrated Gemini API for AI-Powered answer generation
+- Developed FastAPI backend and React frontend
+
+🔗 Link - https://github.com/asxrafali0975/PDF_CHAT.AI/tree/main
+
+---
+
 ### 🧩 IssueHub — Complaint Management System
 > Backend-focused full-stack application
 
-- Built with FastAPI, React, MongoDB, Redis, Celery  
-- Implemented JWT authentication & role-based access (Student / Team / Admin)  
-- Used Redis + Celery for async email processing (reduced API latency from ~2–4s to ~200ms)  
-- Designed paginated REST APIs for scalable data handling  
-- File upload support & complaint tracking system
+- Built with FastAPI, React, MongoDB, Redis, and Celery
+- Implemented JWT authentication and role-based access control
+- Used Redis + Celery for asynchronous email processing
+- Designed paginated REST APIs for scalable data handling
+- File upload support and complaint tracking system
 
-🔗 link - https://github.com/asxrafali0975/IssueHub/tree/main
+🔗 Link - https://github.com/asxrafali0975/IssueHub/tree/main
 
 ---
 
 ### 🛠 AutoWord — Data Entry Automation Tool
 > Real-world productivity tool
 
-- Reduced manual work from **30 minutes → ~1 minute (97% improvement)**  
-- Converts unstructured data into formatted Word tables  
-- Saves ~3 hours/week for end user
+- Reduced manual work from 30 minutes to around 1 minute
+- Converts unstructured data into formatted Word tables
+- Saves approximately 3 hours per week for end users
 
-🔗 link - https://github.com/asxrafali0975/AutoWord/tree/main
+🔗 Link - https://github.com/asxrafali0975/AutoWord/tree/main
 
 ---
 
 ### 🎯 Hack8thon Registration System
 > Live deployed application
 
-- Built registration portal used by **200+ students**  
-- Stack: React, FastAPI, MongoDB  
-- Implemented form validation, error handling & deployment  
+- Built registration portal used by 200+ students
+- Stack: React, FastAPI, MongoDB
+- Implemented validation, error handling, and deployment
 
-🔗 Live: https://hack8-frontend.vercel.app/
+🔗 Live - https://hack8-frontend.vercel.app/
 
 ---
 
-## 📈 Focus Areas
-- Backend Engineering (FastAPI)  
-- API Design & Performance Optimization  
-- System Design Fundamentals  
+## 📈 Current Focus
+
+- Backend Engineering
+- AI-Powered Applications
+- RAG Systems
+- LangChain
+- FastAPI
+- System Design Fundamentals
 
 ---
 
 ## 📫 Contact
-- 📧 ashrafalistudy@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ashrafali0975/
+
+📧 Email: ashrafalistudy@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/ashrafali0975/
+
+🐙 GitHub: https://github.com/asxrafali0975
