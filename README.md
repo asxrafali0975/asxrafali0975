@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashraf Ali
 
-🎓 BCA Final Year Student (CGPA: 8.82)
+🎓 BCA Graduate (CGPA: 8.82)
 💻 Python Backend Developer | AI Application Developer
 
 ---
@@ -11,6 +11,7 @@
 - Python
 - JavaScript
 - SQL
+- GoLang
 
 ### Backend
 - FastAPI
