@@ -68,7 +68,8 @@
 - Designed paginated REST APIs for scalable data handling
 - File upload support and complaint tracking system
 
-🔗 Link - https://github.com/asxrafali0975/IssueHub/tree/main
+🔗Repo Link - https://github.com/asxrafali0975/IssueHub/tree/main
+🔗Live Link - [https://github.com/asxrafali0975/IssueHub/tree/main](https://issue-hub-gamma.vercel.app)
 
 ---
 
